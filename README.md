@@ -2,10 +2,6 @@
 <!--                   GITHUB PROFILE - PHAN THUẬN THÀNH                   -->
 <!-- ===================================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:00DFD8&height=200&section=header&text=Phan%20Thu%E1%BA%ADn%20Th%C3%A0nh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Enthusiast&descAlignY=60&descAlign=50" alt="Header Banner" width="100%" />
-</p>
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%91%8B+Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Phan+Thu%E1%BA%ADn+Th%C3%A0nh;%F0%9F%9A%80+Backend+%26+Full-Stack+Engineer;%E2%98%95+Turning+Coffee+into+Scalable+Code;%F0%9F%8C%9F+Welcome+to+my+Tech+Sanctuary!" alt="Typing SVG Animation" />
 </h2>
